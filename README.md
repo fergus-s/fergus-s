@@ -33,6 +33,9 @@ Specialising in Tableau & Alteryx, I love to tell stories using Data
     <img src="https://public.tableau.com/thumb/views/Aguidetoyournextworkation/FINAL" width ="49%">
   </a>
 
+ <a href="https://public.tableau.com/app/profile/fergus.smith/viz/SuperstoreExecutiveOverview_17127650702930/Overview">
+    <img src="https://public.tableau.com/app/profile/fergus.smith/viz/SuperstoreExecutiveOverview_17127650702930/Overview" width ="50%">
+  </a>
 
 
 
