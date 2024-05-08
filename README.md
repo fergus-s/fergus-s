@@ -37,8 +37,9 @@ Specialising in Tableau & Alteryx, I love to tell stories using Data
     <img src="https://public.tableau.com/app/profile/fergus.smith/viz/SuperstoreExecutiveOverview_17127650702930/Overview" width ="33%">
   </a>
 
-
-
+ <a href="https://public.tableau.com/app/profile/fergus.smith/viz/ASpotlightonDementiasGlobalSurge/Dashboard12">
+    <img src="https://public.tableau.com/app/profile/fergus.smith/viz/ASpotlightonDementiasGlobalSurge/Dashboard12" width ="33%">
+  </a>
 
 
 
