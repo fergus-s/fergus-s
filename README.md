@@ -30,11 +30,11 @@ Specialising in Tableau & Alteryx, I love to tell stories using Data
   </a>
 
   <a href="https://public.tableau.com/app/profile/fergus.smith/viz/Aguidetoyournextworkation/FINAL">
-    <img src="https://public.tableau.com/thumb/views/Aguidetoyournextworkation/FINAL" width ="49%">
+    <img src="https://public.tableau.com/thumb/views/Aguidetoyournextworkation/FINAL" width ="33%">
   </a>
 
  <a href="https://public.tableau.com/app/profile/fergus.smith/viz/SuperstoreExecutiveOverview_17127650702930/Overview">
-    <img src="https://public.tableau.com/app/profile/fergus.smith/viz/SuperstoreExecutiveOverview_17127650702930/Overview" width ="47%">
+    <img src="https://public.tableau.com/app/profile/fergus.smith/viz/SuperstoreExecutiveOverview_17127650702930/Overview" width ="33%">
   </a>
 
 
